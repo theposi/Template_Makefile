@@ -1,64 +1,64 @@
 # Makefile Template
 
-### English
+## English
 
-This is a generic Makefile template that can be adapted to any C or C++ project. It automates the compilation process, ensuring efficiency and ease of use.
+This is a **generic Makefile template** that can be adapted to any C or C++ project. It automates the compilation process, ensuring efficiency and ease of use.
 
-📌 Features
+#### 📌 Features
 
-Automatically compiles only modified files.
+- Automatically compiles only modified files.
 
-Organizes object files in a build/ directory.
+- Organizes object files in a `build/` directory.
 
-Supports a flexible project structure.
+- Supports a flexible project structure.
 
-Includes make clean to remove compiled files.
+- Includes `make clean` to remove compiled files.
 
-Easy to configure by modifying directory and file variables.
+- Easy to configure by modifying directory and file variables.
 
-🚀 Usage
+#### 🚀 Usage
 
-Place this Makefile in the root of your project.
+1. Place this `Makefile` in the root of your project.
 
-Adjust the directories and source files according to your project structure.
+2. Adjust the `directories and source files` according to your project structure.
 
-Run the following commands:
+3. Run the following commands:
 
-make → Compiles the project.
+    - `make` → Compiles the project.
 
-make clean → Removes compiled files.
+    - `make` clean → Removes compiled files.
 
-make re → Cleans and recompiles everything.
+    - `make re` → Cleans and recompiles everything.
 
-### Español
+## Español
 
-Este es un Makefile genérico que puede adaptarse a cualquier proyecto en C o C++. Automatiza el proceso de compilación, garantizando eficiencia y facilidad de uso.
+Este es un **Makefile genérico** que puede adaptarse a **cualquier proyecto en C o C++**. Automatiza el proceso de compilación, garantizando eficiencia y facilidad de uso.
 
-📌 Características
+#### 📌 Características
 
-Compila automáticamente solo los archivos modificados.
+- Compila automáticamente solo los archivos modificados.
 
-Organiza los archivos objeto en el directorio build/.
+- Organiza los archivos objeto en el directorio `build/`.
 
-Soporta una estructura de proyecto flexible.
+- Soporta una estructura de proyecto flexible.
 
-Incluye make clean para eliminar archivos compilados.
+- Incluye `make clean` para eliminar archivos compilados.
 
-Fácil de configurar modificando variables de directorios y archivos.
+- Fácil de configurar modificando variables de directorios y archivos.
 
-🚀 Uso
+#### 🚀 Uso
 
-Coloca este Makefile en la raíz de tu proyecto.
+1. Coloca este `Makefile` en la raíz de tu proyecto.
 
-Ajusta los directorios y archivos fuente según la estructura de tu proyecto.
+2. Ajusta los `directorios y archivos fuente` según la estructura de tu proyecto.
 
-Ejecuta los siguientes comandos:
+3. Ejecuta los siguientes comandos:
 
-make → Compila el proyecto.
+    - `make` → Compila el proyecto.
 
-make clean → Elimina los archivos compilados.
+    - `make clean` → Elimina los archivos compilados.
 
-make re → Limpia y recompila todo.
+    - `make re` → Limpia y recompila todo.
 
 Enjoy efficient compilation! 🚀 | ¡Disfruta de una compilación eficiente! 🚀
 
