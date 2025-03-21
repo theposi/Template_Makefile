@@ -1,4 +1,4 @@
-# Makefile Template
+#t Makefile Template
 
 ## English
 
@@ -30,6 +30,10 @@ This is a **generic Makefile template** that can be adapted to any C or C++ proj
 
     - `make re` → Cleans and recompiles everything.
 
+Don't know how to use a Makefile yet? Learn how to use it [here](https://theposintech.hashnode.dev/compile-your-programs-faster-with-makefile), check it out.
+
+Enjoy efficient compilation! 🚀 
+
 ## Español
 
 Este es un **Makefile genérico** que puede adaptarse a **cualquier proyecto en C o C++**. Automatiza el proceso de compilación, garantizando eficiencia y facilidad de uso.
@@ -60,6 +64,6 @@ Este es un **Makefile genérico** que puede adaptarse a **cualquier proyecto en 
 
     - `make re` → Limpia y recompila todo.
 
-Enjoy efficient compilation! 🚀 | ¡Disfruta de una compilación eficiente! 🚀
+¿Aún no sabes cómo usar un Makefile? [Aquí](https://theposintech.hashnode.dev/compile-your-programs-faster-with-makefile) puedes aprender a usarlo, échale un vistazo.
 
-
+¡Disfruta de una compilación eficiente! 🚀
