@@ -26,7 +26,7 @@ This is a **generic Makefile template** that can be adapted to any C or C++ proj
 
     - `make` → Compiles the project.
 
-    - `make` clean → Removes compiled files.
+    - `make clean` → Removes compiled files.
 
     - `make re` → Cleans and recompiles everything.
 
