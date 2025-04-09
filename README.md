@@ -1,5 +1,3 @@
-#t Makefile Template
-
 ## English
 
 This is a **generic Makefile template** that can be adapted to any C or C++ project. It automates the compilation process, ensuring efficiency and ease of use.
