@@ -4,7 +4,7 @@
 #   ██║   ██╔══██║██╔══╝  ██╔═══╝ ██║   ██║╚════██║██║██║╚██╗██║   ██║   ██╔══╝  ██║     ██╔══██║
 #   ██║   ██║  ██║███████╗██║     ╚██████╔╝███████║██║██║ ╚████║   ██║   ███████╗╚██████╗██║  ██║
 #   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝      ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
-# # Makefile Template - Adaptable to Any C/C++ Project
+#   Makefile Template - Adaptable to Any C/C++ Project
 # --------------------------------------------------------------
 # This Makefile is a generic template that can be adapted 
 # to any C or C++ project. Simply modify the directory and 
@@ -22,8 +22,8 @@ BUILD_DIR   = build    # Directory where compiled files will be stored
 BIN         = app      # Name of the generated executable
 
 # Source files (Modify according to your file structure)
-SRC         = $(wildcard $(SRC_DIR)/*.c)  # Finds all .c files in src/
-OBJ         = $(patsubst $(SRC_DIR)/%.c, $(BUILD_DIR)/%.o, $(SRC))  # Converts .c to .o
+SRC         = # Put all your .c files routes here
+OBJ         = # Converts .c to .o
 
 # Main rule
 all: $(BIN)
